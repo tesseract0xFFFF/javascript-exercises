@@ -1,0 +1,10 @@
+create a function with 2 parameters: string and num. 
+store the string and num in variables and initiate a for loop.
+
+///
+for loop initialization:
+let i = 0;. the condition will be i < (number parameter -1). i++ after every iteration.
+///
+
+at the beginnign of the for loop, use switch statements to check for different conditions such as
+the num variable containing a negative value or zero. or the string parameter containing a blank string.
